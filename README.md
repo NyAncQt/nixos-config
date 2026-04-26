@@ -1,4 +1,4 @@
-Got you—**one clean copy-paste README.md**, no extras:
+
 
 ````md
 # ❄️ NixOS Hyprland + Caelestia Setup
